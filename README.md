@@ -7,5 +7,5 @@ I’m currently working at DEPT®
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@oscarbotteri" alt="oscarbotteri" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@FacundoMalgieri" alt="FacundoMalgieri" />
 </a>
