@@ -4,8 +4,6 @@ Tech Lead & Software Engineer with 10+ years of experience. I specialize in Reac
 
 Currently one of the tech leads at **Lumenalta**, where I modernized a monorepo to Next.js 16 with React Compiler, introduced 4,500+ automated tests, built complex Storyblok plugins, and developed infrastructure including Redis, Vercel serverless services, and GitHub Actions workflows.
 
-In 2024–2025, I've been primarily working with Azure DevOps (Repos, Pipelines), which is why GitHub activity is low. Trust me, I'm still shipping.
-
 ---
 
 ### 🧠 Things I've Built
@@ -22,8 +20,8 @@ In 2024–2025, I've been primarily working with Azure DevOps (Repos, Pipelines)
 - 🧾 **GARCA** — [garca.app](https://garca.app)
   Automated tax receipt recovery for Argentina's ARCA system. Free, private, 100% browser-based — no data leaves the device. Built with Next.js, Tailwind CSS, and Docker.
 
-- 🌊 **Oceanic Custom** — [VSCode Theme on Open VSX](https://open-vsx.org/extension/facundo-malgieri/oceanic-custom)
-  Dark theme inspired by Oceanic Next with my own color palette tweaks.
+- 🌊 **Oceanic Custom** — [Cursor / VSCode Theme on Open VSX](https://open-vsx.org/extension/facundo-malgieri/oceanic-custom)
+  Dark theme for Cursor and VSCode, inspired by Oceanic Next with my own color palette tweaks.
 
 ---
 
@@ -35,8 +33,10 @@ In 2024–2025, I've been primarily working with Azure DevOps (Repos, Pipelines)
 
 ### ❤️ Support My Work
 
-[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue?logo=paypal&style=flat-square)](https://www.paypal.com/donate/?hosted_button_id=LFWM6H4YYAVQC)
+[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?logo=github-sponsors&logoColor=white&style=flat-square)](https://github.com/sponsors/FacundoMalgieri)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black&style=flat-square)](https://buymeacoffee.com/facundo.malgieri)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white&style=flat-square)](https://paypal.me/facundomalgieri)
 
 ---
 
-Want to connect or collaborate? DM me on [Twitter](https://twitter.com/FacundoMalgieri) or [LinkedIn](https://www.linkedin.com/in/facundo-malgieri/)!
+Want to connect or collaborate? Reach out on [LinkedIn](https://www.linkedin.com/in/facundo-malgieri/)!
